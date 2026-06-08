@@ -1,1 +1,4 @@
-0
+3
+0 0 Buy a new notebook for coding
+1 0 Fix memory leaks in database
+2 1 Create a repository on GitHub
