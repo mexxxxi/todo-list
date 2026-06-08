@@ -40,9 +40,9 @@ make
 Пример содержимого `db.txt`:
 ```
 3
-0 0 купить продукты
-1 1 прочитать книгу
-2 0 сделать домашнее задание
+0 0 Buy a new notebook for coding
+1 0 Fix memory leaks in database
+2 1 Create a repository on GitHub
 ```
 
 ## Команды
@@ -74,16 +74,16 @@ list
 ============================================================
  number |                   name                   | status
 ============================================================
- 0      | купить продукты                           | TODO
- 1      | прочитать книгу                           | TODO
+ 0      | Buy a new notebook for coding             | TODO
+ 1      | Fix memory leaks in database              | TODO
 ============================================================
 done 1
 list
 ============================================================
  number |                   name                   | status
 ============================================================
- 0      | купить продукты                           | TODO
- 1      | прочитать книгу                           | DONE
+ 0      | Buy a new notebook for coding             | TODO
+ 1      | Fix memory leaks in database              | DONE
 ============================================================
 delete 0
 exit
