@@ -74,16 +74,16 @@ list
 ============================================================
  number |                   name                   | status
 ============================================================
- 0      | Buy a new notebook for coding             | TODO
- 1      | Fix memory leaks in database              | TODO
+ 0      | Buy a new notebook for coding            | TODO
+ 1      | Fix memory leaks in database             | TODO
 ============================================================
 done 1
 list
 ============================================================
  number |                   name                   | status
 ============================================================
- 0      | Buy a new notebook for coding             | TODO
- 1      | Fix memory leaks in database              | DONE
+ 0      | Buy a new notebook for coding            | TODO
+ 1      | Fix memory leaks in database             | DONE
 ============================================================
 delete 0
 exit
